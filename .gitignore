@@ -1,2 +1,4 @@
 git_command.ipynb
 .gita*
+*.json
+*.h5
