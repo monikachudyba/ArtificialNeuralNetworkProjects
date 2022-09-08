@@ -2,3 +2,4 @@ git_command.ipynb
 .gitattributes
 *.json
 *.h5
+DATA/coffee.zip
