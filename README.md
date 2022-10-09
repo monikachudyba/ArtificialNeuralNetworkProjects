@@ -28,7 +28,14 @@
 - values forecasting;
 > Final coefficient of determination: 95.40% (SimpleRNN)
 - Forecasting based on SARIMAX model;
-> Final coefficient of determination: 93.27%
+> Final coefficient of determination: 94.51%
 - outlier detection and imputation with Hampel filter;
 - Forecasting based on XGBoost model;
 > Final coefficient of determination: 96.80%
+- unemployment rate data cleaning and exploration;
+- evaluation of Recurrent Neural Network models with one SimpleRNN and forecasting;
+> Final coefficient of determination: 96.25% 
+- Forecasting based on SARIMAX models with and without exogenous variable - inflation;
+> Final coefficient of determination: 94.35%
+- Forecasting based on XGBoost model;
+> Final coefficient of determination: 81.70%

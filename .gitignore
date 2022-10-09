@@ -2,4 +2,5 @@ git_command.ipynb
 .gitattributes
 *.json
 *.h5
+*.pkl
 DATA/coffee.zip
