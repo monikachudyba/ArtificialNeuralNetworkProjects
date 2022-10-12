@@ -4,3 +4,4 @@ git_command.ipynb
 *.h5
 *.pkl
 DATA/coffee.zip
+DATA/simpsons/
