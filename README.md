@@ -14,6 +14,11 @@
 - classification using transfer learning: ResNet50 and EfficientNetB0 architectures;
 > Final accuracy: 98.25% (ResNet)
 
+## GAN Simpsons
+> Generating Simpsons faces from noisy signal based on images from the animated sitcom.
+- data augmentation;
+- production of images using Deep Convolutional Generative Adversarial Network;
+
 ## NLP Comments Generator
 > Simple text generator based on comments from Polish Gossip Portal.
 - web scraping using GraphQL;
